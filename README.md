@@ -1,4 +1,6 @@
-# IT1050-Tutorial-02
+# IT21099090 Anuruddhika S.K.D
+
+IT1050-Tutorial-02
 
 ## Objectives : Convert C programs to C++
 Use your Repl.IT account and use the Instructions provided by your Instructors to complete the Tutorial.  All instructions are in the GitHub classroom and Repl.it  for the Tutorial Questions for Week 02. Please submit your solutions by commiting code from Repl.it
